@@ -8,4 +8,5 @@
 | [printJson.ino](http://elabz.net/AVR/printJson) | Simple code to show data in Json format on serial port |
 | [task.ino](http://elabz.net/AVR/task) | Macro to simulate multitasking using millis() |
 
-###### [eLabz.net](https://elabz.net)
+---
+###### This is free software — consider supporting us to [buy our coffee or beer](https://www.buymeacoffee.com/AndreSantana) 😉
